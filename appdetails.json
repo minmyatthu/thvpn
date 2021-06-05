@@ -1,10 +1,10 @@
 {
   "ads":"true",
   "update":[{
-    "version":"",
-    "title":"Note",
+    "version":"2.8.1601",
+    "title":"This app is now Open Source",
     "description":"If you have installed any other vpn app kindly uninstall it otherwise you won't be able to connect to our VPN",
-    "size":""
+    "size":"9mb"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
@@ -16,6 +16,6 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.94.202.74","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"singapore","country":"singapore","image":"singapore","ip":"128.199.89.222","active":"true","signal":"a"},
   ]
 }
